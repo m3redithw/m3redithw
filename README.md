@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @m3redithw
-- 👀 I’m interested in photography
-- 🌱 I’m currently learning data science
-- 💞️ I’m looking to collaborate on data science related projects
-- 📫 How to reach me wang.meredith09@gmail.com
+# **:sparkles: Hey! Welcome to Meredith's hidden nerdy side. :sparkles:**
+
+Meredith Wang is a contemporary artist, professional photographer and aspiring data scientist from.
+
+Meredith's [Art Portfolio](https://www.meredithwang.com/)
+
 
 <!---
 m3redithw/m3redithw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
