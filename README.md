@@ -1,6 +1,6 @@
 # **:sparkles: Hey! Welcome to Meredith's nerdy brain cell. :sparkles:**
 
-Meredith Wang is a contemporary artist, professional photographer and aspiring data scientist from.
+Meredith Wang is a contemporary artist, professional photographer and aspiring data scientist.
 
 Meredith's [Art Portfolio](https://www.meredithwang.com/)
 
