@@ -1,4 +1,4 @@
-# **:sparkles: Hey! Welcome to Meredith's hidden nerdy side. :sparkles:**
+# **:sparkles: Hey! Welcome to Meredith's nerdy brain cell. :sparkles:**
 
 Meredith Wang is a contemporary artist, professional photographer and aspiring data scientist from.
 
