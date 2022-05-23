@@ -9,3 +9,5 @@ Meredith's [Art Portfolio](https://www.meredithwang.com/)
 m3redithw/m3redithw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+<h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/meredithwang/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="meredith-wang" /></a></h3>
