@@ -2,7 +2,7 @@
 
 Meredith Wang is a contemporary artist, professional photographer and aspiring data scientist.
 
-Meredith's [Art Portfolio](https://www.meredithwang.com/)
+# Meredith's [Art Portfolio](https://www.meredithwang.com/)
 
 How to reach me [wang.meredith09@gmail.com]
 
