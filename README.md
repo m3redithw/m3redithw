@@ -1,15 +1,22 @@
-# **:sparkles: Hey! Welcome to Meredith's nerdy brain cell. :sparkles:**
+<h3 align="center">
+  :sparkles: Hey! Welcome to Meredith's nerdy brain cell. :sparkles:
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-Meredith Wang is a contemporary artist, professional film & commercial photographer, and aspiring data scientist.
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=International%20Artist%20and%20Professional%20Photographer;Independent%20Model%20and%20Designer;Aspiring%20Data%20Scientist;9%20Years%20of%20Photography%20Experience&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
-How to reach me [wang.meredith09@gmail.com]
+
+
+### How to reach me [wang.meredith09@gmail.com]
 
 <h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="meredith-wang" /></a></h3>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3redithw&hide=Jupyter&layout=compact&theme=synthwave)](https://github.com/m3redithw)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3redithw&hide=Jupyter&layout=compact&theme=dracula)](https://github.com/m3redithw)
 
-![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3redithw&show_icons=true&theme=cobalt)
+![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3redithw&show_icons=true&theme=dracula)
 <!---
 m3redithw/m3redithw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
