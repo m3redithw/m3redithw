@@ -9,9 +9,9 @@
 
 
 
-### How to reach me [wang.meredith09@gmail.com]
+<h3 align="left">Reach me at   <a href=wang.meredith09@gmail.com target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&labelColor=white" alt="meredith-wang" /></a></h3>
 
-<h3 align="left">Connect with me on <a href="https://www.linkedin.com/in/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" alt="meredith-wang" /></a></h3>
+<h3 align="left">Connect with me on   <a href="https://www.linkedin.com/in/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="meredith-wang" /></a></h3>
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3redithw&hide=Jupyter&layout=compact&theme=dracula)](https://github.com/m3redithw)
