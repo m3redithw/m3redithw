@@ -31,7 +31,7 @@
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
 
 #### 🧰 Frameworks and Libraries
-
+  <a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache-Kafka-000.svg?logo=apachekafka&logoColor=white"></a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
   <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-8DF9C1.svg?logo=matplotlib-python&logoColor=white"></a>
