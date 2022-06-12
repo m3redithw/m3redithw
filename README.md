@@ -57,4 +57,4 @@
 
 ***
 ## Github's stats
-[![Meredith's github activity graph](https://activity-graph.herokuapp.com/graph?username=m3redithw&theme=monokai)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Meredith's github activity graph](https://activity-graph.herokuapp.com/graph?username=m3redithw&theme=monokai&timezone=timezone['America/Chicago'])](https://github.com/ashutosh00710/github-readme-activity-graph)
