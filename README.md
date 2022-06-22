@@ -28,8 +28,9 @@
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="R" src="https://custom-icon-badges.herokuapp.com/badge/R-276DC3.svg?logo=R&logoColor=white"></a>
   <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-
+  
 #### 🧰 Frameworks and Libraries
   <a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache-Kafka-000.svg?logo=apachekafka&logoColor=white"></a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
@@ -48,6 +49,7 @@
 <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-FF33D4?logo=intellij-idea&logoColor=white"></a>
 <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 <a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white"></a>
+<a href="#"><img alt="R Studio" src="https://img.shields.io/badge/R Studio-276DC3.svg?logo=RStudio&logoColor=white"></a>
 <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
 <a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-ff3621.svg?logo=Databricks&logoColor=white"></a>
