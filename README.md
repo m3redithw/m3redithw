@@ -18,7 +18,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m3redithw&theme=darcula)](https://git.io/streak-stats)
 
-<!-- ![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3redithw&show_icons=true&theme=dracula) -->
+<!-- ![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3redithw&show_icons=true&theme=dracula&timezone = Timezone['America/Los_Angeles']) -->
 
 ***
 ## My favorite tools
