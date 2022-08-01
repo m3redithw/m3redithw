@@ -19,9 +19,10 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m3redithw&theme=darcula&timezone=Timezone['America/Honolulu'])](https://git.io/streak-stats)
 
 <!-- ![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3redithw&show_icons=true&theme=dracula) -->
+
 ## My Projects
 <p align="left">
-  <a href="https://github.com/m3redithw/telco-classification-project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=m3redithw&repo=telco-classification-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="telco-classification-project"></a>
+  
   <a href="https://github.com/m3redithw/zillow-regression-project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=zillow-regression-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="zillow-regression-project"></a>
 
 <p align="left">
