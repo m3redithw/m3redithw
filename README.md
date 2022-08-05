@@ -32,7 +32,10 @@
 ## Data Science Resources
 <p align="left">
   <a href="https://github.com/m3redithw/Machine-Learning-Specialization"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Machine-Learning-Specialization&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Machine-Learning-Specialization"></a>
-
+  <a href="https://github.com/m3redithw/Google-Data-Analytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Google-Data-Analytics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Google-Data-Analytics"></a>
+  <a href="https://github.com/m3redithw/Data-Visualization-with-Tableau"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Data-Visualization-with-Tableau&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Data-Visualization-with-Tableau"></a>
+  <a href="https://github.com/m3redithw/Python-3-Programming-Specialization"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Python-3-Programming-Specialization&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Python-3-Programming-Specialization"></a>
+  <a href="https://github.com/m3redithw/Distributed-Computing-with-Spark-SQL"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Distributed-Computing-with-Spark-SQL&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Distributed-Computing-with-Spark-SQL"></a>
 
 <p align="left">
   <a href="https://github.com/m3redithw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
@@ -40,7 +43,7 @@
 
 ***
 
-## My favorite tools
+## My Favorite Tools
 
 #### 💻 Programming Languages
 
