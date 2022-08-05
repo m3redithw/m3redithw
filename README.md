@@ -29,7 +29,17 @@
   <a href="https://github.com/m3redithw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
+## Data Science Resources
+<p align="left">
+  <a href="https://github.com/m3redithw/Machine-Learning-Specialization"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Machine-Learning-Specialization&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Machine-Learning-Specialization"></a>
+
+
+<p align="left">
+  <a href="https://github.com/m3redithw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</p>
+
 ***
+
 ## My favorite tools
 
 #### 💻 Programming Languages
