@@ -22,9 +22,11 @@
 
 ## My Projects
 <p align="left">
+  <a href="https://github.com/m3redithw/Linked-inSight"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Linked-inSight&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Linked-inSight"></a>
+  <a href="https://github.com/m3redithw/zestimates-clustering-project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=zestimates-clustering-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="zestimates-clustering-project"></a>
   <a href="https://github.com/m3redithw/zillow-regression-project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=zillow-regression-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="zillow-regression-project"></a>
   <a href="https://github.com/m3redithw/telco-classification-project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=telco-classification-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="telco-classification-project"></a>
-  <a href="https://github.com/m3redithw/zestimates-clustering-project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=zestimates-clustering-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="zestimates-clustering-project"></a>
+  
 
 <p align="left">
   <a href="https://github.com/m3redithw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
