@@ -13,8 +13,7 @@
 
 <h3 align="left">Connect with me on   <a href="https://www.linkedin.com/in/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="meredith-wang" /></a></h3>
 
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3redithw&hide=Jupyter-Notebook&layout=compact&theme=dracula)](https://github.com/m3redithw)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m3redithw&theme=darcula)](https://git.io/streak-stats)
 
