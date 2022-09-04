@@ -7,16 +7,19 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=International%20Artist%20and%20Professional%20Photographer;Independent%20Model%20and%20Designer;Data%20Scientist;7%20Years%20of%20Photography%20Experience&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
+**Reach me at**   <a href='wang.meredith09@gmail.com' target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&labelColor=white" alt="meredith-wang" /></a>
 
-<h3 align="left">Reach me at   <a href='wang.meredith09@gmail.com' target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&labelColor=white" alt="meredith-wang" /></a></h3>
-
-<h3 align="left">Connect with me on   <a href="https://www.linkedin.com/in/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="meredith-wang" /></a></h3>
+**I'm also on**   <a href="https://www.linkedin.com/in/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="meredith-wang" /></a><a href="https://www.instagram.com/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=black" alt="meredith-wang" /></a></h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3redithw&hide=Jupyter-Notebook&layout=compact&theme=dracula)](https://github.com/m3redithw)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m3redithw&theme=darcula)](https://git.io/streak-stats)
 
 <!-- ![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3redithw&show_icons=true&theme=dracula) -->
+
+Meet my coding buddy Oreo :)
+
+![1 copy](https://user-images.githubusercontent.com/105242871/188298357-50ea3439-188d-4557-bbe7-48c0790ae9df.jpg)
 
 ## Machine Learning Projects
 <p align="left">
