@@ -19,7 +19,8 @@
 
 Meet my coding buddy Oreo :)
 
-![1 copy](https://user-images.githubusercontent.com/105242871/188298357-50ea3439-188d-4557-bbe7-48c0790ae9df.jpg)
+![oreo](https://user-images.githubusercontent.com/105242871/188337285-f88debe9-168d-4964-8259-cd7745354311.jpg)
+
 
 ## Machine Learning Projects
 <p align="left">
