@@ -8,7 +8,6 @@
 </p>
 
 
-
 <h3 align="left">Reach me at   <a href='wang.meredith09@gmail.com' target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&labelColor=white" alt="meredith-wang" /></a></h3>
 
 <h3 align="left">Connect with me on   <a href="https://www.linkedin.com/in/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="meredith-wang" /></a></h3>
@@ -19,7 +18,7 @@
 
 <!-- ![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3redithw&show_icons=true&theme=dracula) -->
 
-## My Projects
+## Machine Learning Projects
 <p align="left">
   <a href="https://github.com/m3redithw/Linked-inSight"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Linked-inSight&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Linked-inSight"></a>
   <a href="https://github.com/m3redithw/Linked-inSight"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=potato-disease-classification&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Potato-Disease-Classification"></a>
@@ -71,6 +70,8 @@
   <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-adcbe3.svg?logo=plotly-python&logoColor=white"></a>
   <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-1560bd.svg?logo=scipy&logoColor=white"></a>
   <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-4b86b4.svg?logo=scikitlearn&logoColor=white"></a>
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-A4C9BB.svg?logo=TensorFlow&logoColor=white"></a>
+  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-C5DDD6.svg?logo=Keras&logoColor=white"></a>
   
 #### 📊 Databases
 
