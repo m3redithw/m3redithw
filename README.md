@@ -11,13 +11,6 @@
 
 **𝕀'𝕞 𝕒𝕝𝕤𝕠 𝕠𝕟**   <a href="https://www.linkedin.com/in/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="meredith-wang" /></a><a href="https://www.instagram.com/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=black" alt="meredith-wang" /></a></h3>
 
-**𝕀 𝕒𝕞...**
-
-🔸 𝗔 𝗽𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗽𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝗲𝗿. 𝗠𝘆 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹 𝗳𝗮𝘃𝗼𝗿𝗶𝘁𝗲 𝗶𝘀 𝟰𝘅𝟱 𝗳𝗶𝗹𝗺.
-
-🔸 𝗜𝗻𝘁𝗲𝗿𝗻𝗮𝘁𝗶𝗼𝗻𝗮𝗹𝗹𝘆 𝗳𝗲𝗮𝘁𝘂𝗿𝗲𝗱 𝗮𝗿𝘁𝗶𝘀𝘁. 𝗠𝘆 𝘄𝗼𝗿𝗸 𝗶𝗻𝗰𝗹𝘂𝗱𝗲𝘀 𝗶𝗻𝘀𝘁𝗮𝗹𝗹𝗮𝘁𝗶𝗼𝗻, 𝗽𝗵𝗼𝘁𝗼𝗴𝗿𝗮𝗽𝗵𝘆, 𝗼𝗶𝗹 𝗽𝗮𝗶𝗻𝘁𝗶𝗻𝗴, 𝗺𝗶𝘅 𝗺𝗲𝗱𝗶𝗮 𝘄𝗼𝗿𝗸, 𝗲𝘁𝗰.
-
-🔸
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3redithw&hide=Jupyter-Notebook&layout=compact&theme=radical)](https://github.com/m3redithw)
 
