@@ -98,7 +98,6 @@
 <a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-6FD0E5?logo=sublime-text&logoColor=white"></a>
 <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-7ce8ff.svg?logo=Trello&logoColor=white"></a>
 <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-89EAFF.svg?logo=google%20sheets&logoColor=white"></a>
-
 ![](https://img.shields.io/badge/Adobe%20Creative%20Cloud-96ECFF?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Illustrator-A3EEFF?style=flat&logo=adobe%20illustrator&logoColor=white) ![](https://img.shields.io/badge/Adobe%20InDesign-B0F1FF?style=flat&logo=Adobe%20InDesign&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Lightroom-BDF3FF?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Photoshop-CAF5FF?style=flat&logo=Adobe%20Photoshop&logoColor=black) ![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-D7F8FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![](https://img.shields.io/badge/Adobe%20XD-E4FAFF?style=flat&logo=Adobe%20XD&logoColor=black) ![](https://img.shields.io/badge/Canva-F1FCFF.svg?&style=flat&logo=Canva&logoColor=white)
 
 ***
