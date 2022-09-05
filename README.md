@@ -55,27 +55,27 @@ Meet my coding buddy Oreo :)
 #### 💻 Programming Languages
  
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-  <a href="#"><img alt="R" src="https://custom-icon-badges.herokuapp.com/badge/R-276DC3.svg?logo=R&logoColor=white"></a>
-  <a href="#"><img alt="CSS" src="https://custom-icon-badges.herokuapp.com/badge/CSS-264de4.svg?logo=CSS3&logoColor=white"></a>
-  <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-  <a href="#"><img alt="HTML" src="https://custom-icon-badges.herokuapp.com/badge/HTML-e34c26.svg?logo=HTML&logoColor=white"></a>
+  <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000B18.svg?logo=javascript&logoColor=white"></a>
+  <a href="#"><img alt="R" src="https://custom-icon-badges.herokuapp.com/badge/R-00172D.svg?logo=R&logoColor=white"></a>
+  <a href="#"><img alt="CSS" src="https://custom-icon-badges.herokuapp.com/badge/CSS-00264D.svg?logo=CSS3&logoColor=white"></a>
+  <a href="#"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-02386E.svg?logo=database&logoColor=white"></a>
+  <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-00498D.svg?logo=python&logoColor=white"></a>
+  <a href="#"><img alt="HTML" src="https://custom-icon-badges.herokuapp.com/badge/HTML-0052A2.svg?logo=HTML&logoColor=white"></a>
   
   
 #### 🧰 Frameworks and Libraries
   <a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache-Kafka-000.svg?logo=apachekafka&logoColor=white"></a>
-  <a href="#"><img alt="DJango" src="https://img.shields.io/badge/DJango-092e20.svg?logo=DJango&logoColor=white"></a>
-  <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-2ECC71.svg?logo=Selenium&logoColor=white"></a>
-  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-013243.svg?logo=numpy&logoColor=white"></a>
-  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-8DF9C1.svg?logo=matplotlib-python&logoColor=white"></a>
-  <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-65A9A8.svg?logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-adcbe3.svg?logo=plotly-python&logoColor=white"></a>
-  <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-1560bd.svg?logo=scipy&logoColor=white"></a>
-  <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-4b86b4.svg?logo=scikitlearn&logoColor=white"></a>
-  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-A4C9BB.svg?logo=TensorFlow&logoColor=white"></a>
-  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-C5DDD6.svg?logo=Keras&logoColor=white"></a>
+  <a href="#"><img alt="DJango" src="https://img.shields.io/badge/DJango-112933.svg?logo=DJango&logoColor=white"></a>
+  <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-193E4C.svg?logo=Selenium&logoColor=white"></a>
+  <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-225366.svg?logo=numpy&logoColor=white"></a>
+  <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2A677F.svg?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-337C99.svg?logo=matplotlib-python&logoColor=white"></a>
+  <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-3B91B2.svg?logo=pandas&logoColor=white"></a>
+  <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-44A6CC.svg?logo=plotly-python&logoColor=white"></a>
+  <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-4CBBE5.svg?logo=scipy&logoColor=white"></a>
+  <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-55d0ff.svg?logo=scikitlearn&logoColor=white"></a>
+  <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-AAE7FF.svg?logo=TensorFlow&logoColor=white"></a>
+  <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-DDF5FF.svg?logo=Keras&logoColor=white"></a>
   
 #### 📊 Databases
 
