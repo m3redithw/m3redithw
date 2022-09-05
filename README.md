@@ -79,25 +79,27 @@ Meet my coding buddy Oreo :)
   
 #### 📊 Databases
 
-  <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-99E2FF.svg?logo=sqlite&logoColor=white"></a>
+  <a href="#"><img alt="OracleSQL" src="https://img.shields.io/badge/OracleSQL-BBECFF.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-EEFAFF.svg?logo=mysql&logoColor=white"></a>
+  
 
 #### 🛠️ Softwares and Tools
 
 <a href="#"><img alt="OS-Mac" src="https://img.shields.io/badge/-OC%20Mac-555555?logo=apple&logoColor=white"></a>
-<a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-FF33D4?logo=intellij-idea&logoColor=white"></a>
-<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-<a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-E97627.svg?logo=tableau&logoColor=white"></a>
-<a href="#"><img alt="R Studio" src="https://img.shields.io/badge/R Studio-276DC3.svg?logo=RStudio&logoColor=white"></a>
-<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-<a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-ff3621.svg?logo=Databricks&logoColor=white"></a>
-<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-<a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-23575757?logo=sublime-text&logoColor=white"></a>
-<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-007AC0.svg?logo=Trello&logoColor=white"></a>
-<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-34A853.svg?logo=google%20sheets&logoColor=white"></a>
+<a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-0C1719?logo=intellij-idea&logoColor=white"></a>
+<a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-182E33.svg?logo=git&logoColor=white"></a>
+<a href="#"><img alt="Tableau" src="https://img.shields.io/badge/Tableau-25454C.svg?logo=tableau&logoColor=white"></a>
+<a href="#"><img alt="R Studio" src="https://img.shields.io/badge/R Studio-315C66.svg?logo=RStudio&logoColor=white"></a>
+<a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-3D747F.svg?logo=visual-studio-code&logoColor=white"></a>
+<a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-4A8B99.svg?logo=Jupyter&logoColor=white"></a>
+<a href="#"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-56A2B2.svg?logo=Databricks&logoColor=white"></a>
+<a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-63B9CC?logo=stack-overflow&logoColor=white"></a>
+<a href="#"><img alt="Sublime Text" src="https://img.shields.io/badge/-Sublime%20Text-6FD0E5?logo=sublime-text&logoColor=white"></a>
+<a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-7ce8ff.svg?logo=Trello&logoColor=white"></a>
+<a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets-89EAFF.svg?logo=google%20sheets&logoColor=white"></a>
 
-![](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=flat&logo=adobe%20illustrator&logoColor=white) ![](https://img.shields.io/badge/Adobe%20InDesign-FF3366?style=flat&logo=Adobe%20InDesign&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat&logo=Adobe%20Photoshop&logoColor=black) ![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)
+![](https://img.shields.io/badge/Adobe%20Creative%20Cloud-96ECFF?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Illustrator-A3EEFF?style=flat&logo=adobe%20illustrator&logoColor=white) ![](https://img.shields.io/badge/Adobe%20InDesign-B0F1FF?style=flat&logo=Adobe%20InDesign&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Lightroom-BDF3FF?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Photoshop-CAF5FF?style=flat&logo=Adobe%20Photoshop&logoColor=black) ![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-D7F8FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![](https://img.shields.io/badge/Adobe%20XD-E4FAFF?style=flat&logo=Adobe%20XD&logoColor=black) ![](https://img.shields.io/badge/Canva-F1FCFF.svg?&style=flat&logo=Canva&logoColor=white)
 
 ***
 ## Github's stats
