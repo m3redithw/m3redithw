@@ -31,7 +31,7 @@
   <a href="https://github.com/JML-Association/Anomaly-Detection-Project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=JML-Association&repo=Anomaly-Detection-Project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Anomaly-Detection-Project"></a>
   <a href="https://github.com/m3redithw/zestimates-clustering-project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=zestimates-clustering-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="zestimates-clustering-project"></a>
   <a href="https://github.com/m3redithw/zillow-regression-project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=zillow-regression-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="zillow-regression-project"></a>
-  <a href="https://github.com/m3redithw/telco-classification-project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=telco-classification-project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="telco-classification-project"></a>
+  <a href="https://github.com/m3redithw/Customer-Churn-Prediction"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Customer-Churn-Prediction&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Customer-Churn-Prediction"></a>
   
 
 <p align="left">
