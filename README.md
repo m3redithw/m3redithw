@@ -1,5 +1,5 @@
 <h3 align="center">
-  :sparkles: Hey! Welcome to Meredith's nerdy brain cell. :sparkles:
+  :sparkles: ℍ𝕖𝕪! 𝕎𝕖𝕝𝕔𝕠𝕞𝕖 𝕥𝕠 𝕄𝕖𝕣𝕖𝕕𝕚𝕥𝕙'𝕤 𝕟𝕖𝕣𝕕𝕪 𝕓𝕣𝕒𝕚𝕟 𝕔𝕖𝕝𝕝 :sparkles:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -7,9 +7,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=International%20Artist%20and%20Professional%20Photographer;Independent%20Model%20and%20Designer;Data%20Scientist;7%20Years%20of%20Photography%20Experience&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-**Reach me at**   <a href='wang.meredith09@gmail.com' target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&labelColor=white" alt="meredith-wang" /></a>
+**ℝ𝕖𝕒𝕔𝕙 𝕞𝕖 𝕒𝕥**   <a href='wang.meredith09@gmail.com' target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-blue?style=flat&logo=gmail&labelColor=white" alt="meredith-wang" /></a>
 
-**I'm also on**   <a href="https://www.linkedin.com/in/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="meredith-wang" /></a><a href="https://www.instagram.com/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=black" alt="meredith-wang" /></a></h3>
+**𝕀'𝕞 𝕒𝕝𝕤𝕠 𝕠𝕟**   <a href="https://www.linkedin.com/in/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="meredith-wang" /></a><a href="https://www.instagram.com/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=black" alt="meredith-wang" /></a></h3>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3redithw&hide=Jupyter-Notebook&layout=compact&theme=radical)](https://github.com/m3redithw)
 
@@ -17,12 +17,12 @@
 
 <!-- ![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3redithw&show_icons=true&theme=dracula) -->
 
-Meet my coding buddy Oreo :)
+𝕄𝕖𝕖𝕥 𝕞𝕪 𝕔𝕠𝕕𝕚𝕟𝕘 𝕓𝕦𝕕𝕕𝕪 𝕆𝕣𝕖𝕠 (ɔ◔‿◔)ɔ ♥
 
 ![oreo](https://user-images.githubusercontent.com/105242871/188337285-f88debe9-168d-4964-8259-cd7745354311.jpg)
 
 
-## Machine Learning Projects
+## 𝐌𝐚𝐜𝐡𝐢𝐧𝐞 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 <p align="left">
   <a href="https://github.com/m3redithw/Linked-inSight"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Linked-inSight&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Linked-inSight"></a>
   <a href="https://github.com/m3redithw/potato-disease-classification"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=potato-disease-classification&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Potato-Disease-Classification"></a>
@@ -36,7 +36,7 @@ Meet my coding buddy Oreo :)
   <a href="https://github.com/m3redithw?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-## Data Science Resources
+## 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐜𝐞 𝐑𝐞𝐬𝐨𝐮𝐫𝐜𝐞𝐬
 <p align="left">
   <a href="https://github.com/m3redithw/Machine-Learning-Specialization"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Machine-Learning-Specialization&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Machine-Learning-Specialization"></a>
   <a href="https://github.com/m3redithw/Google-Data-Analytics"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Google-Data-Analytics&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Google-Data-Analytics"></a>
@@ -50,9 +50,9 @@ Meet my coding buddy Oreo :)
 
 ***
 
-## My Favorite Tools
+## 𝐌𝐲 𝐅𝐚𝐯𝐨𝐫𝐢𝐭𝐞 𝐓𝐨𝐨𝐥𝐬
 
-#### 💻 Programming Languages
+#### 💻 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬
  
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000B18.svg?logo=javascript&logoColor=white"></a>
@@ -63,7 +63,7 @@ Meet my coding buddy Oreo :)
   <a href="#"><img alt="HTML" src="https://custom-icon-badges.herokuapp.com/badge/HTML-0052A2.svg?logo=HTML&logoColor=white"></a>
   
   
-#### 🧰 Frameworks and Libraries
+#### 🧰 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 𝐚𝐧𝐝 𝐋𝐢𝐛𝐫𝐚𝐫𝐢𝐞𝐬
   <a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache-Kafka-000.svg?logo=apachekafka&logoColor=white"></a>
   <a href="#"><img alt="DJango" src="https://img.shields.io/badge/DJango-112933.svg?logo=DJango&logoColor=white"></a>
   <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-193E4C.svg?logo=Selenium&logoColor=white"></a>
@@ -77,14 +77,14 @@ Meet my coding buddy Oreo :)
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-AAE7FF.svg?logo=TensorFlow&logoColor=white"></a>
   <a href="#"><img alt="Keras" src="https://img.shields.io/badge/Keras-DDF5FF.svg?logo=Keras&logoColor=white"></a>
   
-#### 📊 Databases
+#### 📊 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬
 
   <a href="#"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-99E2FF.svg?logo=sqlite&logoColor=white"></a>
   <a href="#"><img alt="OracleSQL" src="https://img.shields.io/badge/OracleSQL-BBECFF.svg?logo=mysql&logoColor=white"></a>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-EEFAFF.svg?logo=mysql&logoColor=white"></a>
   
 
-#### 🛠️ Softwares and Tools
+#### 🛠️ 𝐒𝐨𝐟𝐭𝐰𝐚𝐫𝐞𝐬 𝐚𝐧𝐝 𝐓𝐨𝐨𝐥𝐬
 
 <a href="#"><img alt="OS-Mac" src="https://img.shields.io/badge/-OC%20Mac-555555?logo=apple&logoColor=white"></a>
 <a href="#"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/-IntelliJ%20IDEA-0C1719?logo=intellij-idea&logoColor=white"></a>
