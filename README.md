@@ -29,6 +29,7 @@
 
 ![oreo](https://user-images.githubusercontent.com/105242871/188337285-f88debe9-168d-4964-8259-cd7745354311.jpg)
 
+![](https://komarev.com/ghpvc/?username=your-github-m3redithw&color=66CDEB)
 
 ## 𝕄𝕒𝕔𝕙𝕚𝕟𝕖 𝕃𝕖𝕒𝕣𝕟𝕚𝕟𝕘 ℙ𝕣𝕠𝕛𝕖𝕔𝕥𝕤
 <p align="left">
@@ -116,4 +117,4 @@
   <img src="https://github.com/m3redithw/m3redithw/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
  -->
-![](https://komarev.com/ghpvc/?username=your-github-m3redithw&color=66CDEB)
+
