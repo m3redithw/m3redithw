@@ -27,7 +27,7 @@
 
 <!-- ![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3redithw&show_icons=true&theme=dracula) -->
 
-𝗠𝗲𝗲𝘁 𝗺𝘆 𝗰𝗼𝗱𝗶𝗻𝗴 𝗯𝘂𝗱𝗱𝘆 𝗢𝗿𝗲𝗼 (ɔ◔‿◔)ɔ ♥
+𝗠𝗲𝗲𝘁 𝗺𝘆 𝗰𝗼𝗱𝗶𝗻𝗴 𝗯𝘂𝗱𝗱𝘆 𝗢𝗿𝗲𝗼 (ɔ◔‿◔)ɔ 💜
 
 ![oreo](https://user-images.githubusercontent.com/105242871/188337285-f88debe9-168d-4964-8259-cd7745354311.jpg)
 
