@@ -15,7 +15,7 @@
 
 <a href="https://www.linkedin.com/in/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="meredith-wang" /></a>
 
-<a href="https://medium.com/@m3redithw" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black" alt="meredith-wang" /></a>
+<a href="https://medium.com/@m3redithw" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black" alt="meredith-wang" /></a> (new article arrives on Sep 15th)
 
 <a href="https://www.instagram.com/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=black" alt="meredith-wang" /></a>
 
