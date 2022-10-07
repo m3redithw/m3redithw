@@ -35,6 +35,7 @@
 
 ## 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗟𝗲𝗮𝗿𝗻𝗶𝗻𝗴 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀
 <p align="left">
+  
   <a href="https://github.com/m3redithw/Linked-inSight"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Linked-inSight&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Linked-inSight"></a>
   <a href="https://github.com/m3redithw/Potato-Disease-Image-Classification"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=m3redithw&repo=Potato-Disease-Image-Classification&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="Potato-Disease-Image-Classification"></a>
   <a href="https://github.com/MBM-nlp/github_classification_project"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MBM-nlp&repo=github_classification_project&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="The-Metaverse"></a>
