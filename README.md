@@ -78,13 +78,14 @@
   
 #### 🧰 𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 𝗮𝗻𝗱 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀
   <a href="#"><img alt="Apache Kafka" src="https://img.shields.io/badge/Apache-Kafka-000.svg?logo=apachekafka&logoColor=white"></a>
-  <a href="#"><img alt="DJango" src="https://img.shields.io/badge/DJango-112933.svg?logo=DJango&logoColor=white"></a>
+  <a href="#"><img alt="DJango" src="https://img.shields.io/badge/DJango-000B18.svg?logo=DJango&logoColor=white"></a>
+  <a href="#"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-112933.svg?logo=Streamlit&logoColor=white"></a>
   <a href="#"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-193E4C.svg?logo=Selenium&logoColor=white"></a>
   <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/Numpy-225366.svg?logo=numpy&logoColor=white"></a>
   <a href="#"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-2A677F.svg?logo=pandas&logoColor=white"></a>
   <a href="#"><img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-337C99.svg?logo=matplotlib-python&logoColor=white"></a>
   <a href="#"><img alt="seaborn" src="https://img.shields.io/badge/seaborn-3B91B2.svg?logo=pandas&logoColor=white"></a>
-  <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-44A6CC.svg?logo=plotly-python&logoColor=white"></a>
+  <a href="#"><img alt="plotly" src="https://img.shields.io/badge/plotly-44A6CC.svg?logo=plotly&logoColor=white"></a>
   <a href="#"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-4CBBE5.svg?logo=scipy&logoColor=white"></a>
   <a href="#"><img alt="sklearn" src="https://img.shields.io/badge/sklearn-55d0ff.svg?logo=scikitlearn&logoColor=white"></a>
   <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-AAE7FF.svg?logo=TensorFlow&logoColor=white"></a>
