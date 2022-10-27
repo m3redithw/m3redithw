@@ -11,12 +11,11 @@
 
 **𝗜'𝗺 𝗮𝗹𝘀𝗼 𝗼𝗻...**
 
-<a href="https://public.tableau.com/app/profile/m3redithw" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="meredith-wang" /></a>
-
 <a href="https://www.linkedin.com/in/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=black" alt="meredith-wang" /></a>
 
 <a href="https://medium.com/@m3redithw" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black" alt="meredith-wang" /></a>
 
+<a href="https://public.tableau.com/app/profile/m3redithw" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="meredith-wang" /></a>
 
 <!-- <a href="https://www.pinterest.com/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/Pinterest-D22B2B?style=flat&logo=pinterest&labelColor=black" alt="meredith-wang" /></a> -->
 
