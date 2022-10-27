@@ -17,7 +17,6 @@
 
 <a href="https://medium.com/@m3redithw" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-black?style=flat&logo=medium&labelColor=black" alt="meredith-wang" /></a>
 
-<a href="https://www.instagram.com/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram&labelColor=black" alt="meredith-wang" /></a>
 
 <!-- <a href="https://www.pinterest.com/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/Pinterest-D22B2B?style=flat&logo=pinterest&labelColor=black" alt="meredith-wang" /></a> -->
 
