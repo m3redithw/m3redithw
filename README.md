@@ -119,5 +119,4 @@
 <p align="center">
   <img src="https://github.com/m3redithw/m3redithw/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p> -->
- -->
 
