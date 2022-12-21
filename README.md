@@ -113,11 +113,11 @@
 ![](https://img.shields.io/badge/Adobe%20Creative%20Cloud-96ECFF?style=flat&logo=Adobe%20Creative%20Cloud&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Illustrator-A3EEFF?style=flat&logo=adobe%20illustrator&logoColor=white) ![](https://img.shields.io/badge/Adobe%20InDesign-B0F1FF?style=flat&logo=Adobe%20InDesign&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Lightroom-BDF3FF?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![](https://img.shields.io/badge/Adobe%20Photoshop-CAF5FF?style=flat&logo=Adobe%20Photoshop&logoColor=black) ![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-D7F8FF?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![](https://img.shields.io/badge/Adobe%20XD-E4FAFF?style=flat&logo=Adobe%20XD&logoColor=black) ![](https://img.shields.io/badge/Canva-F1FCFF.svg?&style=flat&logo=Canva&logoColor=white)
 
 ***
-## 𝗚𝗶𝘁𝗛𝘂𝗯'𝘀 𝗦𝘁𝗮𝘁𝘀
+<!-- ## 𝗚𝗶𝘁𝗛𝘂𝗯'𝘀 𝗦𝘁𝗮𝘁𝘀
 [![Meredith's github activity graph](https://activity-graph.herokuapp.com/graph?username=m3redithw&theme=monokai&timezone=timezone['America/Honolulu'])](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- 
 <p align="center">
   <img src="https://github.com/m3redithw/m3redithw/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
+</p> -->
  -->
 
