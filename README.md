@@ -23,7 +23,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3redithw&timezone=Timezone['America/Honolulu']&hide=Jupyter-Notebook&layout=compact&theme=radical)](https://github.com/m3redithw)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m3redithw&timezone=Timezone['America/Chicago']&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m3redithw&theme=dracula)](https://git.io/streak-stats)
 
 <!-- ![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3redithw&show_icons=true&theme=dracula) -->
 
