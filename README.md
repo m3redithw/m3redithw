@@ -21,9 +21,6 @@
 
 <a href="https://public.tableau.com/app/profile/m3redithw" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="meredith-wang" /></a>
 
-<!-- <a href="https://www.pinterest.com/m3redithw/" target="blank"><img align="center" src="https://img.shields.io/badge/Pinterest-D22B2B?style=flat&logo=pinterest&labelColor=black" alt="meredith-wang" /></a> -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m3redithw&timezone=Timezone['America/Honolulu']&hide=Jupyter-Notebook&layout=compact&theme=radical)](https://github.com/m3redithw)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m3redithw&timezone=Timezone['America/Honolulu']&theme=dracula)](https://git.io/streak-stats)
 
