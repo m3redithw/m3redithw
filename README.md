@@ -22,7 +22,7 @@
 <a href="https://public.tableau.com/app/profile/m3redithw" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau-lightblue?style=flat&logo=tableau&labelColor=black" alt="meredith-wang" /></a>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m3redithw&timezone=Timezone['America/Honolulu']&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=m3redithw&timezone=Timezone['America/Chicago']&theme=dracula)](https://git.io/streak-stats)
 
 <!-- ![Meredith's GitHub stats](https://github-readme-stats.vercel.app/api?username=m3redithw&show_icons=true&theme=dracula) -->
 
