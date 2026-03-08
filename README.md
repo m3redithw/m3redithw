@@ -7,7 +7,7 @@
 <p align="center">
   
   
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=International%20Artist%20and%20Professional%20Photographer;Data%20Scientist;7%20Years%20of%20Photography%20Experience&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=International%20Artist%20and%20Professional%20Photographer;Data%20Scientist;10%20Years%20of%20Photography%20Experience&font=Fira%20Code&center=true&width=840&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
 <!-- **ℝ𝕖𝕒𝕔𝕙 𝕞𝕖 𝕒𝕥**   <a href='wang.meredith09@gmail.com' target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-orange?style=flat&logo=gmail&labelColor=white" alt="meredith-wang" /></a> -->
